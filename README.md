@@ -186,7 +186,7 @@ This project is for **educational purposes only**.
 
 ## 👨‍💻 Author
 
-**Prakanth**
+**Prakanth V**
 Zero Trust Network Access Project
 Cyber Security / Network Security
 
