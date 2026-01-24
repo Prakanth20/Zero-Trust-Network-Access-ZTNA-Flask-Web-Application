@@ -86,8 +86,8 @@ ZTNA-Project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ZTNA-Project.git
-cd ZTNA-Project
+git clone https://github.com/Prakanth20/Cyber-Fraud-Detection-System-Machine-Learning-.git
+cd Cyber-Fraud-Detection-System-Machine-Learning-
 ```
 
 ---
